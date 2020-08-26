@@ -1,0 +1,21 @@
+body {
+    background-color: white;
+    background-image: url("backround_01.jpg");
+  }
+  
+  div#container {
+    background-color: black;
+    width: 550px;
+    height: 800px;
+    color: white;
+    margin: auto;
+    padding-left: 40px;
+  }
+  
+  /* Set a background and define font-color="white"
+  - Set container background color and margin
+  - Define "title" and "description" color-size-padding etc...
+  - Define "survey-form" color-size-padding etc..
+  - Define labels color-size-padding etc... (Tips: id="name", "email", "number" ...)
+  - Set class color-size-padding-margin etc...
+  - Define id="submit" color-size-padding etc... */ 
